@@ -1,16 +1,20 @@
-## Hi there 👋
+**Hey there!** <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f064cd1f-3b1e-4b99-bf0f-805f116930d7" />
 
-<!--
-**Nowalityy/Nowalityy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m **Nowality!**
+A Full-Stack developer based in France.
 
-Here are some ideas to get you started:
+I code and build whatever I can imagine.
+If an idea pops into my head, chances are I’ll code it and deploy it.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack is React, TypeScript, and Tailwind CSS.
+My favorite tools are VSCode, Git, and Docker.
+
+I have a bunch of pinned projects, but my favorite is my latest project with Percisio.
+I’ve built some public repos—and many more privately.
+
+Fun Facts:
+
+  -I have one cat and one dog
+  -I don’t like coffee
+  -One Piece is my favorite anime
+  **Hobbies**: Anime, coding, MMA
