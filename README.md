@@ -1,4 +1,4 @@
-**Hey there!** <img width="128" height="128" alt="image" src="https://github.com/user-attachments/assets/f064cd1f-3b1e-4b99-bf0f-805f116930d7" />
+**Hey there!**
 
 I’m **Nowality!**
 A Full-Stack developer based in France.
