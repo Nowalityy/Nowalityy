@@ -1,6 +1,6 @@
-**Hey there!**
+# **Hey there!**
 
-I’m **Nowality!**
+<ins>I’m **Nowality!**</ins>
 A Full-Stack developer based in France.
 
 I code and build whatever I can imagine.
@@ -14,8 +14,8 @@ I’ve built some public repos—and many more privately.
 
 Fun Facts:
 
--I'm 20 years old 
--I don’t like coffee
--I don't smoke
--One Piece is my favorite anime 
-**Hobbies**: Anime, coding, MMA 
+-I'm 20 years old  
+-I don’t like coffee  
+-I don't smoke  
+-One Piece is my favorite anime  
+**Hobbies**: Anime, coding, MMA  
