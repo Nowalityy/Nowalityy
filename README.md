@@ -14,7 +14,8 @@ I’ve built some public repos—and many more privately.
 
 Fun Facts:
 
-  -I have one cat and one dog 
-  -I don’t like coffee 
-  -One Piece is my favorite anime 
-  **Hobbies**: Anime, coding, MMA 
+-I'm 20 years old 
+-I don’t like coffee
+-I don't smoke
+-One Piece is my favorite anime 
+**Hobbies**: Anime, coding, MMA 
