@@ -1,6 +1,6 @@
 # **Hey there!**
 
-<ins>I’m **Nowality!**</ins>
+<ins>I’m **Nowality!**</ins>  
 A Full-Stack developer based in France.
 
 I code and build whatever I can imagine.
