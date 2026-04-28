@@ -48,4 +48,4 @@ Open to roles in **AppSec / Pentesting / Security Engineering**
 ## 📫 Contact
 
 * Email: [nikola.milo2706@gmail.com](mailto:nikola.milo2706@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/nikola-milosavljevic-397806327/?skipRedirect=true]
+* LinkedIn: https://www.linkedin.com/in/nikola-milosavljevic-397806327/?skipRedirect=true
