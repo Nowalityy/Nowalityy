@@ -1,21 +1,51 @@
-# **Hey there!**
+## 👋 Hey, I'm Nowality
 
-<ins>I’m **Nowality!**</ins>  
-A Full-Stack developer based in France.
+Full-Stack Developer transitioning into **Cybersecurity (Master starting 2026)**.
 
-I code and build whatever I can imagine.
-If an idea pops into my head, chances are I’ll code it and deploy it.
+I use my development background to better understand, exploit, and secure web applications.
 
-My main tech stack is React, TypeScript, and Tailwind CSS.
-My favorite tools are VSCode, Git, and Docker.
+---
 
-I have a bunch of pinned projects, but my favorite is my latest project with Percisio.
-I’ve built some public repos—and many more privately.
+## 🔐 Cybersecurity Focus
 
-Fun Facts:
+* Web vulnerabilities (XSS, SQL Injection, auth issues)
+* API security testing
+* Secure code practices
+* OWASP Top 10
 
--I'm 21 years old  
--I don’t like coffee  
--I don't smoke  
--One Piece is my favorite anime  
-**Hobbies**: Anime, coding, MMA  
+---
+
+## 🛠️ Tech Stack
+
+* JavaScript / TypeScript (React)
+* Python
+* Linux • Docker
+* Burp Suite • Nmap
+
+---
+
+## 🚀 Security Projects
+
+* **Web Security Lab** → Vulnerable app to practice exploitation
+* **API Security Tester** → Tool for testing API weaknesses
+* **Recon Scripts** → Network enumeration tools
+
+---
+
+## 💼 Background
+
+* 1+ year as Full-Stack Developer (SaaS, production environment)
+
+---
+
+## 🎯 Goal
+
+Looking for an apprenticeship in **cybersecurity (Oct 2026)**
+Open to roles in **AppSec / Pentesting / Security Engineering**
+
+---
+
+## 📫 Contact
+
+* Email: [nikola.milo2706@gmail.com](mailto:nikola.milo2706@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/nikola-milosavljevic-397806327/?skipRedirect=true]
